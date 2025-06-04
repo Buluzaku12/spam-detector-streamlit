@@ -73,7 +73,7 @@ streamlit run spam.py
 Aplikasi ini dapat diakses secara publik melalui Streamlit Cloud.
 🔗 [Klik di sini untuk melihat aplikasi yang sudah dideploy](https://spam-detector-app-x6cnc4w42x6pyauer9tdxv.streamlit.app/)
 
-> Ganti URL di atas dengan link Streamlit Anda setelah deployment.
+
 
 ---
 
